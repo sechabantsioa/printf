@@ -52,5 +52,5 @@ precision, size));
 
 		return (unknow_len);
 	}
-	return (printed_chars)
+	return (printed_chars);
 }
